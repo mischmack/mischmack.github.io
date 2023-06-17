@@ -21,6 +21,7 @@ Yang Wang is an associate professor in the School of Information Sciences at the
 For this project, I will take part in the launch of a large-scale survey study on the security practices of Solidity developers and the analysis of the resulting data. The goal of the study is to help fill the research gap around the security practices of smart contract developers. This study is a follow-up to a previous study [Exploring Security Practices of Smart Contract Developers](https://arxiv.org/abs/2204.11193) done by Tanusree Sharma, Zhixuan Zhou, Andrew Miller, and Yang Wang in the summer of 2021. That study involved an exploratory qualitative study consisting of a semi-structured interview and a code review task with 29 smart contract developers. This new study will be conducted online and offered to various communities of developers. It will consist of a semi-structured interview and a smart contract code review task.
 
 [My Final Report](files/finalreport.pdf)
+[My Final Presentation](files/Jessica_Mack_presentation.pdf)
 
 ## My Blog 
 
